@@ -1,6 +1,6 @@
 # Author: Ashton Lee
 # Github User: ashton01L
-# Date: 7/7/2024
+# Date: 7/10/2024
 
 # Description: Write a program that asks the user how many integers they
 # would like to enter. You can assume that this initial input will be
